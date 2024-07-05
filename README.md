@@ -1,1 +1,1 @@
-# NS Colorify Library
+# NS-Colorify Library
